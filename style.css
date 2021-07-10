@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    background-color:red;
+
+}
+
+#I1 {
+    height: 500px;
+    width: 500px;
+
+}
+
+#menu {
+    list-style: none;
+    position: fixed;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+
+}
+
+.link {
+    float: left;
+    color: azure;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5x;
+    font-size: 20px;
+
+
+
+}
+
+p {
+    font-size: 20px;
+
+}
+
+.Dodo {
+    font-size: 30px;
+}
+
+#About {
+    background-color: aqua;
+}
+
+.WHJ!{
+    
+background-color: chartreuse;    
+    
+    
+}
+
+
+
